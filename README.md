@@ -31,8 +31,6 @@
 
 ## 🧠 About Me
 
-<img align="right" width="40%" src="https://raw.githubusercontent.com/rayhanf14/rayhanf14/output/snake.svg" />
-
 ```yaml
 name: "Rayhan Feroz"
 role: "Software Engineer · AI/ML Engineer · Full Stack Developer"
@@ -53,8 +51,6 @@ I'm a Computer Science (Data Science) undergraduate at B.M.S. College of Enginee
 ![SWE Roles](https://img.shields.io/badge/SWE%20%2F%20AI%20Engineering%20Roles-7C3AED?style=flat-square)
 ![OpenSource](https://img.shields.io/badge/Open%20Source%20Collaboration-6D28D9?style=flat-square)
 ![Freelance](https://img.shields.io/badge/Freelance%20Projects-4C1D95?style=flat-square)
-
-<br clear="right"/>
 
 ---
 
@@ -234,7 +230,7 @@ Pre-University Education (PCMC) · Percentage: 96.1%
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rayhanf14&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=rayhanf14&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
 
 </div>
 
