@@ -60,18 +60,18 @@ My focus is architecting **multi-agent orchestration pipelines** — coordinatin
 
 ---
 
-### 🧠 Core Expertise
+### 🧠 AI / ML & Full Stack Expertise
 
 <div align="center">
 
-| Domain | Details |
-|---|---|
-| **Agentic AI & Orchestration** | LangGraph multi-agent pipelines, fault-tolerant workflow design |
-| **Backend Architecture** | FastAPI, NestJS, modular microservices, async messaging (RabbitMQ) |
-| **Real-Time Systems** | WebSockets, multiplexed streaming proxies, circular-buffer aggregation |
-| **Data & ML** | Regression/classification pipelines, Scikit-learn, hyperparameter tuning |
-| **Observability** | Prometheus, Grafana, OpenTelemetry |
-| **Databases** | PostgreSQL (pgvector), MongoDB, Redis |
+| Domain | Proficiency | Details |
+|---|:---:|---|
+| **Agentic AI & Orchestration** | ⭐⭐⭐⭐⭐ | LangGraph `StateGraph` multi-agent pipelines, fault-tolerant workflow design |
+| **Backend Architecture** | ⭐⭐⭐⭐⭐ | FastAPI, NestJS, modular microservices, async messaging (RabbitMQ) |
+| **Real-Time Systems** | ⭐⭐⭐⭐⭐ | WebSockets, multiplexed streaming proxies, circular-buffer aggregation |
+| **Databases & Vector Search** | ⭐⭐⭐⭐ | PostgreSQL (pgvector), MongoDB, Redis |
+| **Data Science & Classical ML** | ⭐⭐⭐⭐ | Scikit-learn pipelines, GridSearchCV, feature engineering |
+| **Observability & DevOps** | ⭐⭐⭐ | Prometheus, Grafana, OpenTelemetry, Docker |
 
 </div>
 
