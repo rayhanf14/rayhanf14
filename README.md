@@ -1,191 +1,172 @@
+# <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=7z10e0&height=200&section=header&text=Rayhan%20Feroz&fontSize=60&fontColor=ffffff&animation=fadeIn" width="100%" /></p>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There%2C%20I'm%20Rayhan%20Feroz&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+Scalable+Systems;Engineering+AI%2FML+Solutions;Crafting+Full+Stack+Products;Solving+300%2B+DSA+Problems" alt="Typing SVG" />
-</a>
-
-<br/>
-
-![Academic Badge](https://img.shields.io/badge/B.E.-Computer%20Science%20(Data%20Science)-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
-![Location](https://img.shields.io/badge/Location-Bengaluru%2C%20Karnataka-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white)
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayhan-feroz-b1b074345/)
-[![Email](https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rayhanferoz10@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rayhanf14)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=rayhanf14&color=8b5cf6&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/rayhanf14?style=for-the-badge&color=7c3aed&labelColor=1e1b2e)
-![Stars](https://img.shields.io/github/stars/rayhanf14?style=for-the-badge&color=6d28d9&labelColor=1e1b2e)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9D4EDD&center=true&vCenter=true&width=500&height=50&lines=Computer+Science+%26+Data+Science+Student;Full-Stack+%26+AI%2FML+Engineer;Distributed+Systems+Architect;Open+Source+Contributor)](https://git.io/typing-svg)
 
 </div>
 
-<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Education-B.M.S.%20College%20of%20Engineering-7B2CBF?style=for-the-badge&logo=academicons&logoColor=white" alt="Education" />
+  <img src="https://img.shields.io/badge/Location-Bengaluru%2C%20India-5A189A?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+</p>
+
+<p align="center">
+  <a href="mailto:rayhanferoz10@gmail.com"><img src="https://img.shields.io/badge/Email-rayhanferoz10%40gmail.com-3C096C?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Rayhan%20Feroz-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com"><img src="https://img.shields.io/badge/GitHub-Rayhan%20Feroz-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <img src="https://komarev.com/ghpvc/?username=rayhanferoz&color=7b2cbf&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/rayhanferoz?style=flat-square&color=5a189a&label=Followers" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/rayhanferoz?style=flat-square&color=3c096c&label=Stars" alt="Stars" />
+</p>
 
 ---
 
-## 🧠 About Me
+## 👤 About Me
 
-```yaml
-name: "Rayhan Feroz"
-role: "Software Engineer · AI/ML Engineer · Full Stack Developer"
-education: "B.E. Computer Science & Engineering (Data Science), CGPA 9.3"
-focus:
-  - Designing multi-agent, fault-tolerant backend systems
-  - Building AI/ML pipelines with LangGraph and vector search
-  - Real-time data streaming and distributed system design
-  - Full stack product engineering with a strong systems mindset
-philosophy: "Engineering with product intuition, not just code"
+```
+┌─────────────────────────────────────────────────────────────────────────┐
+│  Rayhan Feroz                                                           │
+│  Computer Science & Data Science @ B.M.S. College of Engineering        │
+└─────────────────────────────────────────────────────────────────────────┘
 ```
 
-I'm a Computer Science (Data Science) undergraduate at B.M.S. College of Engineering, passionate about building production-grade systems that combine distributed backend architecture, AI/ML orchestration, and real-time data processing. From multi-agent task pipelines to live market analytics platforms, I enjoy engineering systems that are fast, resilient, and genuinely useful.
+I am a **Software Engineer** and **Data Science undergraduate** (CGPA: 9.3) based in Bengaluru, India. Passionate about building high-performance distributed systems, multi-agent AI orchestration pipelines, and real-time streaming platforms.
 
-**🚀 Open To:**
+* 🚀 **Full-Stack & Systems Engineering**: Proficient in architecting scalable backends with NestJS, FastAPI, and Node.js, alongside responsive React/TypeScript frontends.
+* 🤖 **AI/ML & Data Science**: Experienced in multi-agent orchestration (LangGraph, pgvector), real-time data pipelines, and machine learning models (Scikit-learn, PyTorch/Python ecosystem).
+* ⚙️ **Infrastructure & Observability**: Strong focus on event-driven architecture (RabbitMQ, Redis), containerization (Docker), and system monitoring (OpenTelemetry, Prometheus, Grafana).
+* 🎯 **Product Engineering Mindset**: Obsessed with building resilient, low-latency applications with clean architecture, fault tolerance, and production-grade reliability.
 
-![Internships](https://img.shields.io/badge/Internship%20Opportunities-8B5CF6?style=flat-square)
-![SWE Roles](https://img.shields.io/badge/SWE%20%2F%20AI%20Engineering%20Roles-7C3AED?style=flat-square)
-![OpenSource](https://img.shields.io/badge/Open%20Source%20Collaboration-6D28D9?style=flat-square)
-![Freelance](https://img.shields.io/badge/Freelance%20Projects-4C1D95?style=flat-square)
+> **Open To:** Software Engineering Internships, AI/ML Engineering Roles, Full-Stack Development, and Open Source Collaboration.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
-
+### 💻 Languages
+p
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,ts,js,c&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,py,ts,js,c,postgres,html,css" alt="Languages" />
 </p>
 
-**Frontend**
-
+### 🎨 Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=react,vite,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,typescript,vite,html,css" alt="Frontend" />
 </p>
 
-**Backend & Databases**
-
+### ⚙️ Backend & Databases
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,postgres,mongodb,redis&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,postgres,mongodb,redis,rabbitmq" alt="Backend and Databases" />
 </p>
 
-**Cloud, DevOps & Tooling**
-
+### ☁️ Cloud, DevOps & Tooling
 <p>
-<img src="https://skillicons.dev/icons?i=docker,git,githubactions,grafana,prometheus,postman,render&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,prometheus,grafana" alt="DevOps and Tools" />
 </p>
 
 ---
 
-## 🤖 AI / ML Expertise
+## 🧠 AI/ML Expertise
 
-<div align="center">
-
-| Domain | Details |
-|---|---|
-| **Multi-Agent Systems** | Orchestrated 7 specialized agents with LangGraph for task ingestion, extraction, embedding, deduplication, and prioritization |
-| **Vector Search & Embeddings** | Low-latency semantic search using PostgreSQL with pgvector |
-| **ML Modeling** | Regression pipelines with Scikit-learn, hyperparameter tuning via GridSearchCV |
-| **Data Analysis** | Pandas, Matplotlib, Seaborn for exploratory analysis and model evaluation |
-
-</div>
+| Domain | Proficiency | Details & Focus Areas |
+| :--- | :---: | :--- |
+| **Multi-Agent Orchestration** | Advanced | LangGraph, FastAPI agent workflows, automated ingestion, deduplication & prioritization |
+| **Vector Search & Embeddings** | Advanced | PostgreSQL (`pgvector`), semantic search, context retrieval, low-latency querying |
+| **Predictive Analytics & ML** | Intermediate | Scikit-learn, Pandas, NumPy, regression modeling, hyperparameter tuning (`GridSearchCV`) |
+| **Data Visualization & Analytics** | Intermediate | Matplotlib, Seaborn, exploratory data analysis, real-time OHLCV aggregation |
 
 ---
 
-## 💼 Featured Projects
+## 🚀 Featured Projects
 
 <details>
-<summary><b>🔹 Priora AI (In Progress)</b></summary>
-<br/>
+<summary><b>🤖 Priora AI — Multi-Agent Task Orchestration Pipeline</b> <i>[In Progress]</i></summary>
+<br />
 
-An automated task-management pipeline using multi-agent orchestration to ingest, process, and prioritize tasks across GitHub, Gmail, and Slack.
+> An automated AI-powered task management platform that orchestrates 7 specialized agents to ingest, extract, embed, deduplicate, and prioritize tasks from GitHub, Gmail, and Slack.
 
-| Attribute | Details |
-|---|---|
-| **Stack** | TypeScript, React, NestJS, Python, FastAPI, LangGraph, PostgreSQL (pgvector), RabbitMQ, Redis, Docker |
-| **Scale** | 7 specialized agents orchestrating task ingestion, extraction, embedding, dedup & prioritization |
-| **Performance** | Low-latency semantic search via pgvector; async event messaging with RabbitMQ |
-| **Security** | Redis-backed state management, circuit breakers, rate limiting, Dead Letter Queues (DLQs) |
-| **Impact** | Fault-tolerant pipeline design preventing message loss during failure modes |
-| **Repository** | [View Repo](https://github.com/rayhanf14) |
+| Stack | Scale | Performance | Security | Impact |
+| :--- | :--- | :--- | :--- | :--- |
+| TypeScript, React, NestJS, Python, FastAPI, LangGraph, pgvector, RabbitMQ, Redis, Docker | Multi-agent distributed system | Low-latency vector search | Fault-tolerant DLQ & rate limiting | Streamlined multi-channel workflow automation |
 
-Architected a modular NestJS backend integrated with PostgreSQL/pgvector, with production observability via Docker, Prometheus, Grafana, and OpenTelemetry to monitor pipeline health and processing latency.
+#### System Architecture & Engineering Highlights
+* **Multi-Agent Orchestration:** Architected an automated task-management pipeline using FastAPI and LangGraph with 7 specialized agents to ingest, extract, embed, deduplicate, and prioritize tasks across multiple input channels.
+* **Distributed Backend Architecture:** Engineered a modular NestJS backend integrated with PostgreSQL and `pgvector` for semantic search, utilizing RabbitMQ for asynchronous event messaging.
+* **Fault-Tolerant Pipeline Design:** Implemented Redis-backed state management, circuit breakers, rate limiting, and Dead Letter Queues (DLQs) to prevent message loss during system failures.
+* **Production Observability:** Deployed microservices via Docker and set up end-to-end telemetry using Prometheus, Grafana, and OpenTelemetry to monitor pipeline health and processing latency.
+
+[📁 Repository & Source Code](https://github.com/rayhanferoz)
 
 </details>
 
 <details>
-<summary><b>🔹 Trade Vision [Live]</b></summary>
-<br/>
+<summary><b>📈 Trade Vision — Live Crypto Market Analytics Platform</b> <i>[Live]</i></summary>
+<br />
 
-A live cryptocurrency market analytics platform processing real-time Binance data across 265+ trading pairs with interactive candlestick charts and watchlists.
+> A high-throughput, real-time cryptocurrency streaming and analytics platform processing live Binance market data across 265+ trading pairs.
 
-| Attribute | Details |
-|---|---|
-| **Stack** | TypeScript, React.js, Node.js, Express.js, Python, FastAPI, WebSockets, Vite |
-| **Scale** | 265+ real-time trading pairs streamed concurrently |
-| **Performance** | Custom multiplexed WebSocket proxy with per-symbol fan-out, reducing bandwidth and server load |
-| **Security** | Rate limiting, server-side secret management, CORS policies, retries, request timeouts |
-| **Impact** | Prefix-trie search engine for instant symbol discovery + circular-buffer aggregation for real-time OHLCV updates |
-| **Repository / Live** | [Live Demo](https://trade-vision-1mqv.vercel.app/) |
+| Stack | Scale | Performance | Security | Impact |
+| :--- | :--- | :--- | :--- | :--- |
+| React.js, TypeScript, Node.js, Express.js, Python, FastAPI, WebSockets, Vite | 265+ Trading Pairs | Sub-millisecond fan-out | Server-side secret management & CORS | Real-time OHLCV analytics dashboard |
 
-Structured as a 3-tier microservice architecture — React frontend, Node.js API gateway, and Python ML inference engine — with automatic reconnection handling for resilient live data delivery.
+#### System Architecture & Engineering Highlights
+* **Real-Time Data Streaming:** Built a live analytics platform streaming WebSocket market data with interactive candlestick charts and dynamic watchlists.
+* **Multiplexed WebSocket Proxy:** Designed a custom WebSocket proxy that multiplexes dynamic client subscriptions over a single upstream exchange connection, featuring automatic reconnection and per-symbol fan-out.
+* **Data Processing & Caching:** Created a prefix-trie search engine for instant symbol discovery alongside a circular-buffer aggregation pipeline for real-time OHLCV updates.
+* **3-Tier Microservice Architecture:** Structured services across a React frontend, Node.js API gateway, and Python ML inference engine, secured with rate limiting, CORS, retries, and request timeouts.
 
-</details>
-
-<details>
-<summary><b>🔹 Inner Light Therapy Platform</b></summary>
-<br/>
-
-A full-stack, role-based web platform connecting patients and therapists with secure authentication and appointment scheduling.
-
-| Attribute | Details |
-|---|---|
-| **Stack** | Node.js, Express.js, MongoDB, React.js, JavaScript, HTML/CSS |
-| **Scale** | Role-based access for two distinct user types (patients & therapists) |
-| **Performance** | Optimized query response times using parallel MongoDB aggregations |
-| **Security** | bcrypt-based authentication, modular RESTful APIs, RBAC |
-| **Impact** | Real-time appointment booking with automated schedule collision detection |
-| **Repository** | [View Repo](https://github.com/rayhanf14/InnerLight) |
-
-Built with a focus on secure, concurrent scheduling logic to prevent booking conflicts across therapist availability windows.
+[📁 Repository & Source Code](https://github.com/rayhanferoz)
 
 </details>
 
 <details>
-<summary><b>🔹 Traffic Congestion Analysis</b></summary>
-<br/>
+<summary><b>🧘 Inner Light Therapy Platform — Telehealth Platform</b> <i>[GitHub]</i></summary>
+<br />
 
-An end-to-end regression pipeline to evaluate urban traffic congestion based on historical volume and speed metrics.
+> A full-stack web application featuring role-based access control, secure authentication, and collision-free appointment scheduling for patients and therapists.
 
-| Attribute | Details |
-|---|---|
-| **Stack** | Python, Scikit-learn, Pandas, Matplotlib, Seaborn |
-| **Scale** | 5 machine-learning models trained and compared |
-| **Performance** | R² score of 0.96, 4.3% MAPE |
-| **Security** | N/A |
-| **Impact** | Hyperparameter tuning via GridSearchCV to optimize predictive accuracy |
-| **Repository** | [View Repo](https://github.com/rayhanf14/traffic-data-analysis) |
+| Stack | Scale | Performance | Security | Impact |
+| :--- | :--- | :--- | :--- | :--- |
+| Node.js, Express.js, MongoDB, React.js, JavaScript, HTML/CSS | Multi-role platform | Parallel MongoDB aggregations | bcrypt hashing & RBAC | Automated schedule collision detection |
 
-Focused on model optimization and evaluation, comparing multiple regression approaches to identify the best-performing predictor.
+#### Engineering Highlights
+* **Role-Based Access Control:** Developed modular RESTful APIs and secure bcrypt authentication tailored for patient and therapist roles.
+* **Concurrency & Aggregation:** Engineered an appointment booking system with automated schedule collision detection and optimized query response times using MongoDB aggregation pipelines.
+
+[📁 Repository & Source Code](https://github.com/rayhanferoz)
+
+</details>
+
+<details>
+<summary><b>🚦 Traffic Congestion Analysis — Predictive ML Pipeline</b> <i>[GitHub]</i></summary>
+<br />
+
+> An end-to-end regression modeling pipeline evaluating urban traffic congestion patterns based on historical traffic volume and speed metrics.
+
+| Stack | Scale | Performance | Security | Impact |
+| :--- | :--- | :--- | :--- | :--- |
+| Python, Scikit-learn, Pandas, Matplotlib, Seaborn | 5 ML Models Evaluated | R² = 0.96, MAPE = 4.3% | Data validation & clean pipeline | Highly accurate congestion forecasting |
+
+#### Engineering Highlights
+* **Predictive Pipeline:** Constructed an end-to-end machine learning pipeline to analyze traffic volume and speed metrics.
+* **Model Optimization:** Trained and tuned 5 algorithms using `GridSearchCV`, achieving an **R² score of 0.96** and **4.3% MAPE**.
+
+[📁 Repository & Source Code](https://github.com/rayhanferoz)
 
 </details>
 
 ---
 
-## 🎓 Education
+## 💼 Experience & Leadership
 
-**B.M.S. College of Engineering** — Bengaluru, Karnataka
-Bachelor of Engineering in Computer Science & Engineering (Data Science) · CGPA: 9.3
-`2024 – Present`
+### **Team Captain** — *High School Football Team*
+* **Scope:** Led team strategies, match planning, and coordinated group dynamics during competitive tournaments.
+* **Skills:** `Team Leadership` `Strategy` `Communication` `Conflict Resolution`
 
-**RV PU College** — Bengaluru, Karnataka
-Pre-University Education (PCMC) · Percentage: 96.1%
-`2022 – 2024`
+### **Team Lead & Champion** — *Pre-University Science Fest*
+* **Scope:** Spearheaded a project team to secure **1st Place** among participating teams, earning special recognition from the Chief Guest.
+* **Skills:** `Project Management` `Technical Presentation` `Problem Solving`
 
 ---
 
@@ -194,22 +175,37 @@ Pre-University Education (PCMC) · Percentage: 96.1%
 <div align="center">
 
 | Recognition | Details |
-|---|---|
-| 💻 Problem Solving | Solved 300+ Data Structures & Algorithms problems on LeetCode using Java |
-| 🏈 Team Leadership | Captain of the High School Football Team — led gameplay strategy and team coordination |
-| 🥇 Technical Competition | Led team to 1st place in the Pre-University Science Fest with special recognition from the Chief Guest |
+| :--- | :--- |
+| **LeetCode 300+ Solved** | Solved over 300 Data Structures & Algorithms problems primarily in Java |
+| **1st Place Winner** | Pre-University Science Fest Technical Competition |
+| **Academic Excellence (B.E.)** | Maintained a **9.3 CGPA** in Computer Science & Engineering (Data Science) |
+| **Academic Excellence (PUC)** | Scored **96.1%** in Pre-University Education (PCMC) |
 
 </div>
 
 ---
 
-## 💻 Coding Profiles
+## 📜 Education & Core Coursework
 
-<div align="center">
+### **B.M.S. College of Engineering, Bengaluru**
+* **Degree:** Bachelor of Engineering in Computer Science & Engineering (Data Science)
+* **CGPA:** 9.3 | **Timeline:** 2024 – Present
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/rayhanf/)
+### **RV PU College, Bengaluru**
+* **Degree:** Pre-University Education (PCMC)
+* **Percentage:** 96.1% | **Timeline:** 2022 – 2024
 
-</div>
+#### **Core Coursework:**
+`Data Structures & Algorithms` • `Object-Oriented Programming` • `Database Management Systems` • `Operating Systems` • `Computer Networks` • `Software Engineering`
+
+---
+
+## 🧩 Coding Profiles
+
+<p align="left">
+  <a href="https://leetcode.com"><img src="https://img.shields.io/badge/LeetCode-300%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://github.com"><img src="https://img.shields.io/badge/GitHub-RayhanFeroz-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" /></a>
+</p>
 
 ---
 
@@ -217,20 +213,22 @@ Pre-University Education (PCMC) · Percentage: 96.1%
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rayhanf14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=rayhanf14&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=8b5cf6&fire=7c3aed" />
+<img src="https://github-readme-stats.vercel.app/api?username=rayhanferoz&show_icons=true&theme=synthwave&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rayhanferoz&theme=synthwave&hide_border=true" alt="GitHub Streak" width="48%" />
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhanf14&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
+<br />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhanferoz&layout=compact&theme=synthwave&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
 
 </div>
 
 ---
 
-## 🏅 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=rayhanf14&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rayhanferoz&theme=onedark&column=6&margin-w=15&margin-h=15)
 
 </div>
 
@@ -240,7 +238,7 @@ Pre-University Education (PCMC) · Percentage: 96.1%
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rayhanf14&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=c9d1d9" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rayhanferoz&theme=react-dark&hide_border=true" width="100%" alt="Contribution Graph" />
 
 </div>
 
@@ -250,7 +248,7 @@ Pre-University Education (PCMC) · Percentage: 96.1%
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/rayhanf14/rayhanf14/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/rayhanferoz/rayhanferoz/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
 
 </div>
 
@@ -260,37 +258,36 @@ Pre-University Education (PCMC) · Percentage: 96.1%
 
 ```yaml
 learning:
-  - Advanced multi-agent orchestration patterns
-  - Distributed systems design at scale
+  - Deep Learning & LLM Fine-Tuning
+  - Advanced Distributed System Patterns
 building:
-  - "Priora AI — multi-agent task management pipeline"
-  - Real-time data infrastructure for Trade Vision
+  - Priora AI (Multi-Agent Task Orchestration)
+  - Custom Event-Driven Microservices
 exploring:
-  - Production-grade MLOps and observability
-  - Vector search optimization at scale
+  - High-performance Rust for Systems Engineering
+  - Edge Compute & WebAssembly
 open_to:
-  - Software Engineering / AI Engineering internships and roles
-  - Collaborative open source work
+  - Software Engineering Internships
+  - Open Source Contributions
+  - Full-Stack & AI Engineering Collaborations
 ```
 
 ---
 
-## 🤝 Connect With Me
+## 📫 Connect With Me
 
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rayhanferoz10@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayhan-feroz-b1b074345/)
-[![GitHub](https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rayhanf14)
-
-</div>
+<p align="center">
+  <a href="mailto:rayhanferoz10@gmail.com"><img src="https://img.shields.io/badge/Gmail-rayhanferoz10%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Rayhan%20Feroz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com"><img src="https://github.com/rayhanferoz"><img src="https://img.shields.io/badge/GitHub-rayhanferoz-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
+  <i>"Strive for continuous improvement in system resilience, code elegance, and impactful problem-solving."</i>
+</p>
 
-*"Engineering systems that don't just work — they scale, recover, and endure."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7z10e0&height=120&section=footer" width="100%" />
+</p>
