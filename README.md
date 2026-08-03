@@ -72,7 +72,7 @@ My work focuses on **agentic AI and distributed backend systems** - from LangGra
 ### Featured Projects
 
 <details>
-<summary><b>PrioraAI - Completed Multi-Agent Task Management System</b></summary>
+<summary><b>PrioraAI - Multi-Agent Task Management System</b></summary>
 <br/>
 
 Built a completed automated task-management pipeline using FastAPI and LangGraph, coordinating **7 specialized agents** to ingest, extract, embed, deduplicate, and prioritize tasks from GitHub, Gmail, and Slack.
