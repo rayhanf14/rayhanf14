@@ -1,22 +1,22 @@
-<div align="center">
+ <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Rayhan%20Feroz&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Systems%20Builder%20%7C%20Data%20Science%20Student&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6D28D9&height=220&section=header&text=Rayhan%20Feroz&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Systems%20Builder%20%7C%20Data%20Science%20Student&descAlignY=57&descAlign=50" width="100%" alt="Rayhan Feroz — Full Stack Developer, AI Systems Builder and Data Science Student"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+AI-Powered+Distributed+Systems;LangGraph+%7C+FastAPI+%7C+NestJS;Real-Time+Data+Platforms;300%2B+DSA+Problems+Solved" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+AI-Powered+Distributed+Systems;LangGraph+%7C+FastAPI+%7C+NestJS;Real-Time+Data+Platforms;400%2B+DSA+Problems+Solved" alt="Animated introduction"/>
 </a>
 
 <br/>
 
-![CGPA](https://img.shields.io/badge/CGPA-9.3%2F10-6D28D9?style=flat-square&labelColor=1e1b2e)
+![CGPA](https://img.shields.io/badge/CGPA-9.25%2F10-6D28D9?style=flat-square&labelColor=1e1b2e)
 ![PUC](https://img.shields.io/badge/PUC-96.1%25-7C3AED?style=flat-square&labelColor=1e1b2e)
 ![Location](https://img.shields.io/badge/Location-Bengaluru%2C%20India-4C1D95?style=flat-square&labelColor=1e1b2e)
 
 <br/>
 
-<a href="https://www.linkedin.com/in/rayhan-feroz-b1b074345/"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:rayhanferoz10@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/rayhanf14"><img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/rayhan-feroz-b1b074345/"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:rayhanferoz10@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/rayhanf14"><img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 <br/><br/>
 
@@ -32,29 +32,42 @@
 
 I'm a **Computer Science & Engineering (Data Science) undergraduate** at B.M.S. College of Engineering, Bengaluru, building full-stack applications, real-time data systems, and AI-powered distributed services.
 
-My work focuses on **agentic AI and distributed backend systems** - from LangGraph-powered task orchestration to real-time market-data platforms. I build reliable services with semantic search, asynchronous messaging, observability, and production-focused safeguards.
+My work focuses on **agentic AI and distributed backend systems** — from LangGraph-powered task orchestration to real-time market-data platforms. I build services with semantic search, asynchronous messaging, observability, and production-focused safeguards.
 
 ---
 
 ### Tech Stack
 
 **Languages**
-<p><img src="https://skillicons.dev/icons?i=java,python,ts,js,c,html,css" /></p>
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,ts,js,c,html,css&theme=dark" alt="Java, Python, TypeScript, JavaScript, C, HTML and CSS"/>
+</p>
 
 **Frontend**
-<p><img src="https://skillicons.dev/icons?i=react,vite" /></p>
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,vite&theme=dark" alt="React and Vite"/>
+</p>
 
 **Backend & Databases**
-<p><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,postgres,mongodb,redis,rabbitmq" /></p>
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,postgres,mongodb,redis&theme=dark" alt="Node.js, Express, NestJS, FastAPI, PostgreSQL, MongoDB and Redis"/>
+</p>
+
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
 **Cloud, DevOps & Tooling**
-<p><img src="https://skillicons.dev/icons?i=git,github,docker,postman,prometheus,grafana" /></p>
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,prometheus,grafana&theme=dark" alt="Git, GitHub, Docker, Postman, Prometheus and Grafana"/>
+</p>
 
 ---
 
 ### AI / ML Expertise
-
-<div align="center">
 
 | Domain | Details |
 |---|---|
@@ -65,23 +78,22 @@ My work focuses on **agentic AI and distributed backend systems** - from LangGra
 | **Distributed Systems** | RabbitMQ messaging, Redis state management, Docker microservices, and telemetry |
 | **Observability** | Prometheus, Grafana, and OpenTelemetry pipeline monitoring |
 
-</div>
-
 ---
 
 ### Featured Projects
 
 <details>
-<summary><b>PrioraAI - Multi-Agent Task Management System</b></summary>
+<summary><b>PrioraAI — Multi-Agent Task Management System</b></summary>
+
 <br/>
 
-Built a completed automated task-management pipeline using FastAPI and LangGraph, coordinating **7 specialized agents** to ingest, extract, embed, deduplicate, and prioritize tasks from GitHub, Gmail, and Slack.
+Built an automated task-management pipeline using FastAPI and LangGraph, coordinating **7 specialized agents** to ingest, extract, embed, deduplicate, and prioritize tasks from GitHub, Gmail, and Slack.
 
 | Aspect | Detail |
 |---|---|
 | **Stack** | TypeScript, React, NestJS, Python, FastAPI, LangGraph, PostgreSQL (pgvector), RabbitMQ, Redis, Docker |
-| **Scale** | 7 specialized agents |
-| **Performance** | Low-latency semantic search with PostgreSQL and pgvector |
+| **Architecture** | 7 specialized agents |
+| **Performance** | Semantic search using PostgreSQL and pgvector |
 | **Reliability** | Redis-backed state, circuit breakers, rate limiting, and dead-letter queues |
 | **Impact** | Automated task ingestion, deduplication, and prioritization across three sources |
 
@@ -90,55 +102,58 @@ Engineered a modular NestJS backend with asynchronous event messaging through Ra
 </details>
 
 <details>
-<summary><b>Trade Vision - Live Cryptocurrency Market Analytics Platform</b></summary>
+<summary><b>TradeVision — Live Cryptocurrency Market Analytics Platform</b></summary>
+
 <br/>
 
-Built a live cryptocurrency market analytics platform processing real-time Binance data across **265+ trading pairs** with interactive candlestick charts and watchlists.
+Built a live cryptocurrency market analytics platform processing real-time Binance data across **265+ trading pairs**, with interactive candlestick charts and watchlists.
 
 | Aspect | Detail |
 |---|---|
-| **Stack** | TypeScript, React.js, Node.js, Express.js, Python, FastAPI, WebSockets, Vite |
+| **Stack** | TypeScript, React, Node.js, Express.js, Python, FastAPI, WebSockets, Vite |
 | **Scale** | 265+ trading pairs |
 | **Performance** | Multiplexed WebSocket subscriptions, prefix-trie search, and circular-buffer OHLCV aggregation |
 | **Security** | Rate limiting, server-side secret management, CORS policies, retries, and request timeouts |
-| **Impact** | Live charts, watchlists, and real-time market data processing |
-| **Live Site** | [trade-vision-1mqv.vercel.app](https://trade-vision-1mqv.vercel.app/) |
+| **Impact** | Live charts, watchlists, and real-time market-data processing |
+| **Live Site** | [TradeVision](https://trade-vision-1mqv.vercel.app/) |
 
 Designed a WebSocket proxy that multiplexes dynamic client subscriptions over a single upstream exchange connection, with automatic reconnection and per-symbol fan-out. Structured the platform as a three-tier system with a React frontend, Node.js API gateway, and Python ML inference engine.
 
 </details>
 
 <details>
-<summary><b>Inner Light Therapy Platform</b></summary>
+<summary><b>Inner Light — Therapy Platform</b></summary>
+
 <br/>
 
-Developed a full-stack therapy platform for patients and therapists with secure authentication, role-based access, and real-time appointment scheduling.
+Developed a full-stack therapy platform for patients and therapists with authentication, role-based access, and appointment scheduling.
 
 | Aspect | Detail |
 |---|---|
 | **Stack** | Node.js, Express.js, MongoDB, React.js, JavaScript, HTML/CSS |
 | **Security** | bcrypt authentication and role-based access control |
 | **Performance** | Parallel MongoDB aggregations for optimized query response times |
-| **Impact** | Real-time booking with automated schedule-collision detection |
-| **Repository** | [github.com/rayhanf14/InnerLight](https://github.com/rayhanf14/InnerLight) |
+| **Impact** | Appointment booking with automated schedule-collision detection |
+| **Repository** | [InnerLight](https://github.com/rayhanf14/InnerLight) |
 
 </details>
 
 <details>
 <summary><b>Traffic Congestion Analysis</b></summary>
+
 <br/>
 
-Built an end-to-end regression pipeline to evaluate urban traffic congestion from historical volume and speed metrics.
+Built an end-to-end regression pipeline to evaluate urban traffic congestion using historical traffic-volume and speed metrics.
 
 | Aspect | Detail |
 |---|---|
 | **Stack** | Python, Scikit-learn, Pandas, Matplotlib, Seaborn |
 | **Scale** | 5 machine-learning models benchmarked |
-| **Performance** | R-squared score of 0.96 and 4.3% MAPE |
-| **Impact** | Hyperparameter optimization with GridSearchCV |
-| **Repository** | [github.com/rayhanf14/traffic-data-analysis](https://github.com/rayhanf14/traffic-data-analysis) |
+| **Performance** | R² score of 0.96 and 4.3% MAPE |
+| **Optimization** | Hyperparameter tuning with GridSearchCV |
+| **Repository** | [Traffic Data Analysis](https://github.com/rayhanf14/traffic-data-analysis) |
 
-Trained five models and performed hyperparameter tuning with GridSearchCV to select an optimized regression approach.
+Trained five models and used GridSearchCV to select an optimized regression approach.
 
 </details>
 
@@ -146,17 +161,13 @@ Trained five models and performed hyperparameter tuning with GridSearchCV to sel
 
 ### Achievements
 
-<div align="center">
-
 | Recognition | Details |
 |---|---|
-| **Competitive Programming** | 300+ Data Structures & Algorithms problems solved on LeetCode using Java |
+| **Competitive Programming** | **400+** Data Structures & Algorithms problems solved on LeetCode using Java |
 | **Team Leadership** | Captain of the high school football team; led gameplay strategies and team coordination |
 | **Technical Competition** | Led a team to **1st place** in the Pre-University Science Fest, with special recognition from the Chief Guest |
-| **Academic Excellence** | CGPA **9.3/10** at B.M.S. College of Engineering |
+| **Academic Excellence** | CGPA of **9.25/10** at B.M.S. College of Engineering |
 | **Pre-University Excellence** | **96.1%** in PCMC at RV PU College |
-
-</div>
 
 ---
 
@@ -164,7 +175,9 @@ Trained five models and performed hyperparameter tuning with GridSearchCV to sel
 
 <div align="center">
 
-<a href="https://leetcode.com/u/rayhanf/"><img src="https://img.shields.io/badge/LeetCode-300%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=1e1b2e" /></a>
+<a href="https://leetcode.com/u/rayhanf/">
+<img src="https://img.shields.io/badge/LeetCode-400%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=1e1b2e" alt="LeetCode — 400+ Problems"/>
+</a>
 
 </div>
 
@@ -174,7 +187,7 @@ Trained five models and performed hyperparameter tuning with GridSearchCV to sel
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rayhanf14&theme=radical&hide_border=true&background=0d1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA" width="60%" />
+<img src="https://streak-stats.demolab.com/?user=rayhanf14&theme=dark&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=9CA3AF" width="70%" alt="GitHub contribution streak"/>
 
 </div>
 
@@ -184,7 +197,7 @@ Trained five models and performed hyperparameter tuning with GridSearchCV to sel
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rayhanf14&theme=react-dark&hide_border=true&bg_color=0d1117&color=A78BFA&line=7C3AED&point=ffffff" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rayhanf14&bg_color=0d1117&color=A78BFA&line=7C3AED&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
 
 </div>
 
@@ -194,7 +207,7 @@ Trained five models and performed hyperparameter tuning with GridSearchCV to sel
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/rayhanf14/rayhanf14/output/github-contribution-grid-snake-dark.svg" width="95%" />
+<img src="https://raw.githubusercontent.com/rayhanf14/rayhanf14/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake animation"/>
 
 </div>
 
@@ -224,18 +237,14 @@ Exploring:
 
 <div align="center">
 
-<a href="mailto:rayhanferoz10@gmail.com"><img src="https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/rayhan-feroz-b1b074345/"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/rayhanf14"><img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:rayhanferoz10@gmail.com"><img src="https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://www.linkedin.com/in/rayhan-feroz-b1b074345/"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/rayhanf14"><img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
-</div>
+<br/><br/>
 
----
+*“Build systems that reason, not just respond.”*
 
-<div align="center">
-
-_"Build systems that reason, not just respond."_
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6D28D9&height=120&section=footer" width="100%" alt="Purple wave footer"/>
 
 </div>
